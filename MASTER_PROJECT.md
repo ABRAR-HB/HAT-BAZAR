@@ -296,6 +296,7 @@ If any Blueprint conflicts with this Constitution, MASTER_PROJECT.md always take
 | 11 | PRODUCT_SYSTEM.md | Product Management System |
 | 12 | BADGE_SYSTEM.md | Seller Badge Economy & Reputation System |
 | 13 | WALLET_SYSTEM.md | Seller & Rider Wallet, Escrow and Settlement System |
+| 14 | ADMIN_SYSTEM.md | Administrative Roles, Permissions & Operations |
 ---
 
 ## Future Blueprint Documents
