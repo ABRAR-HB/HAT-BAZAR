@@ -283,10 +283,6 @@ If any Blueprint conflicts with this Constitution, MASTER_PROJECT.md always take
 
 | No. | Blueprint | Purpose |
 |-----|-----------|---------|
-| 01 | USER_AUTH_SYSTEM.md | User Authentication & Account Management |
-| 02 | SHOP_SYSTEM.md | Shop Registration & Shop Management |
-| 03 | CUSTOMER_SYSTEM.md | Customer Features & Business Rules |
-| 04 | SELLER_SYSTEM.md | Seller Features & Business Rules |
 | 05 | PAYMENT_SYSTEM.md | Payment Architecture & Transaction Rules |
 | 06 | ORDER_SYSTEM.md | Complete Order Lifecycle |
 | 07 | RIDER_SYSTEM.md | Rider Operations & Delivery Workflow |
@@ -303,21 +299,18 @@ If any Blueprint conflicts with this Constitution, MASTER_PROJECT.md always take
 
 The following Blueprint documents are planned for future development.
 
-- WALLET_SYSTEM.md
-- ADMIN_SYSTEM.md
-- RETURN_REFUND_SYSTEM.md
-- REVIEW_RATING_SYSTEM.md
-- COUPON_SYSTEM.md
-- PROMOTION_SYSTEM.md
-- INVENTORY_SYSTEM.md
-- REPORT_ANALYTICS_SYSTEM.md
-- AI_SYSTEM.md
-- SECURITY_SYSTEM.md
-- SETTINGS_SYSTEM.md
-- API_ARCHITECTURE.md
-- DATABASE_ARCHITECTURE.md
-- MOBILE_APPLICATION.md
-
+01 USER_AUTH_SYSTEM.md
+02 SHOP_SYSTEM.md
+03 CUSTOMER_SYSTEM.md
+04 SELLER_SYSTEM.md
+15 REVIEW_RATING_SYSTEM.md
+16 RETURN_REFUND_SYSTEM.md
+17 COUPON_SYSTEM.md
+18 PROMOTION_SYSTEM.md
+19 INVENTORY_SYSTEM.md
+20 REPORT_ANALYTICS_SYSTEM.md
+21 AI_SYSTEM.md
+22 SECURITY_SYSTEM.md
 ---
 
 Every new Blueprint becomes part of the official HAT-BAZAR documentation after approval by the Project Owner.
