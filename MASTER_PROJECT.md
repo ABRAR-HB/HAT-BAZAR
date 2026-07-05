@@ -295,7 +295,7 @@ If any Blueprint conflicts with this Constitution, MASTER_PROJECT.md always take
 | 10 | NOTIFICATION_SYSTEM.md | Notification Architecture |
 | 11 | PRODUCT_SYSTEM.md | Product Management System |
 | 12 | BADGE_SYSTEM.md | Seller Badge Economy & Reputation System |
-
+| 13 | WALLET_SYSTEM.md | Seller & Rider Wallet, Escrow and Settlement System |
 ---
 
 ## Future Blueprint Documents
