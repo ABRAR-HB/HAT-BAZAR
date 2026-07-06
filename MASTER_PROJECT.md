@@ -294,6 +294,7 @@ If any Blueprint conflicts with this Constitution, MASTER_PROJECT.md always take
 | 13 | WALLET_SYSTEM.md | Seller & Rider Wallet, Escrow and Settlement System |
 | 14 | ADMIN_SYSTEM.md | Administrative Roles, Permissions & Operations |
 | 15 | REVIEW_RATING_SYSTEM.md | Product Reviews, Shop Ratings & Review Moderation |
+| 16 | RETURN_REFUND_SYSTEM.md | Return Policy, Refund Process & Dispute Resolution |
 ---
 
 ## Future Blueprint Documents
@@ -304,7 +305,6 @@ The following Blueprint documents are planned for future development.
 02 SHOP_SYSTEM.md
 03 CUSTOMER_SYSTEM.md
 04 SELLER_SYSTEM.md
-16 RETURN_REFUND_SYSTEM.md
 17 COUPON_SYSTEM.md
 18 PROMOTION_SYSTEM.md
 19 INVENTORY_SYSTEM.md
