@@ -286,6 +286,7 @@ If any Blueprint conflicts with this Constitution, MASTER_PROJECT.md always take
 | 01 | USER_AUTH_SYSTEM.md | User Registration, Login, OTP, KYC & Authentication |
 | 02 | SHOP_SYSTEM.md | Shop Creation, Approval, Management & Ownership |
 | 03 | CUSTOMER_SYSTEM.md | Customer Profile, Wishlist, Address Book & Customer Management |
+| 04 | SELLER_SYSTEM.md | Seller Profile, Dashboard, Business Operations & Management |
 | 05 | PAYMENT_SYSTEM.md | Payment Architecture & Transaction Rules |
 | 06 | ORDER_SYSTEM.md | Complete Order Lifecycle |
 | 07 | RIDER_SYSTEM.md | Rider Operations & Delivery Workflow |
@@ -304,7 +305,6 @@ If any Blueprint conflicts with this Constitution, MASTER_PROJECT.md always take
 
 The following Blueprint documents are planned for future development.
 
-04 SELLER_SYSTEM.md
 17 COUPON_SYSTEM.md
 18 PROMOTION_SYSTEM.md
 19 INVENTORY_SYSTEM.md
